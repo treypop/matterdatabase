@@ -3170,5 +3170,22 @@
       "https://eu.govee.com/products/govee-triad-flood-light?Quantity=1+Pack"
     ],
     "ean": "H7063"
+  },
+  {
+    "image": "product_images/big_ass_fans_i6_ceiling_fan_12_84_black_1.png",
+    "product": "i6 Indoor Ceiling Fan",
+    "manufacturer": "Big Ass Fans",
+    "certification_id": "",
+    "certification_link": "",
+    "category": "fans",
+    "supportsThread": false,
+    "supportsWifi": true,
+    "supportsBluetooth": false,
+    "display": false,
+    "note": "",
+    "buyLinks": [
+      "https://store.bigassfans.com/en_us/i6-black-config"
+    ],
+    "ean": null
   }
 ]
